@@ -15,5 +15,5 @@ sudo cp mlx.h /usr/X11/include 2>/dev/null
 sudo cp mlx.h /usr/local/include 2>/dev/null
 sudo cp libmlx.a /usr/X11/lib 2>/dev/null
 sudo cp libmlx.a /usr/local/lib 2>/dev/null
-echo "\n# Do not forget to insert good flags in your Makefile :"
+echo "\n# Finished -- Give to your compilator these instructions :"
 echo "## -L/usr/X11/lib /usr/X11/lib/libmlx.a -lXext -lX11\n"
