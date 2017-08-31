@@ -1,2 +1,4 @@
 # Minilibx_Installer
-Minilibx installer for lazy people (Linux)
+
+Run in your project folder : 
+<code> sh mlx_installer.sh </code>
